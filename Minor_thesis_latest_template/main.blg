@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: unsrtnat.bst
+Database file #1: Bibliography.bib
+Warning--there's a number but no series in Fleisher_411:2007:BCA:1408337
+Warning--there's a number but no series in Porter199806
+Warning--there's a number but no series in ByersDorfNelson201401
+You've used 24 entries,
+            2481 wiz_defined-function locations,
+            699 strings with 8888 characters,
+and the built_in function-call counts, 6802 in all, are:
+= -- 621
+> -- 206
+< -- 26
++ -- 107
+- -- 58
+* -- 337
+:= -- 1067
+add.period$ -- 100
+call.type$ -- 24
+change.case$ -- 48
+chr.to.int$ -- 23
+cite$ -- 27
+duplicate$ -- 356
+empty$ -- 729
+format.name$ -- 88
+if$ -- 1501
+int.to.chr$ -- 2
+int.to.str$ -- 25
+missing$ -- 7
+newline$ -- 153
+num.names$ -- 72
+pop$ -- 269
+preamble$ -- 1
+purify$ -- 24
+quote$ -- 0
+skip$ -- 219
+stack$ -- 0
+substring$ -- 73
+swap$ -- 72
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 159
+warning$ -- 3
+while$ -- 50
+width$ -- 0
+write$ -- 352
+(There were 3 warnings)

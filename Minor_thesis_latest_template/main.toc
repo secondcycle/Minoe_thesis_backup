@@ -1,0 +1,54 @@
+\contentsline {chapter}{Abstract}{i}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Contents}{ii}{dummy.2}
+\contentsline {chapter}{List of Figures}{v}{dummy.4}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.8}
+\contentsline {section}{\numberline {1.1}About recommendation engine industry:}{1}{section.9}
+\contentsline {section}{\numberline {1.2}About the company and its product:}{2}{section.10}
+\contentsline {subsection}{\numberline {1.2.1}Features}{2}{subsection.11}
+\contentsline {subsection}{\numberline {1.2.2}Advantages}{3}{subsection.12}
+\contentsline {subsection}{\numberline {1.2.3}Returns for the customer}{3}{subsection.13}
+\contentsline {section}{\numberline {1.3}Details about major thesis and its relevance}{3}{section.14}
+\contentsline {section}{\numberline {1.4}Current phase in innovation process}{4}{section.15}
+\contentsline {subsection}{\numberline {1.4.1}Voice of the customer}{5}{subsection.16}
+\contentsline {section}{\numberline {1.5}Framing of business research question in the given context}{6}{section.19}
+\contentsline {chapter}{\numberline {2}Literature Study}{8}{chapter.20}
+\contentsline {section}{\numberline {2.1}Background}{8}{section.21}
+\contentsline {section}{\numberline {2.2}Need for movie recommendations}{9}{section.22}
+\contentsline {section}{\numberline {2.3}State of the art movie recommendation engine}{9}{section.23}
+\contentsline {section}{\numberline {2.4}About our competitors}{10}{section.24}
+\contentsline {section}{\numberline {2.5}Competitive advantage and technological differentiation}{12}{section.27}
+\contentsline {section}{\numberline {2.6}Information about Vionel's competitors}{13}{section.28}
+\contentsline {subsection}{\numberline {2.6.1}Internet Movie Database Inc. (IMDB)}{13}{subsection.29}
+\contentsline {subsubsection}{\numberline {2.6.1.1}Differentiating features}{13}{subsubsection.30}
+\contentsline {subsubsection}{\numberline {2.6.1.2}Revenue model}{13}{subsubsection.31}
+\contentsline {subsubsection}{\numberline {2.6.1.3}Information about partners}{14}{subsubsection.32}
+\contentsline {subsubsection}{\numberline {2.6.1.4}Shortcomings and problems in recommendation algorithm }{14}{subsubsection.33}
+\contentsline {subsection}{\numberline {2.6.2}Fandango Inc}{14}{subsection.34}
+\contentsline {subsubsection}{\numberline {2.6.2.1}Differentiating features}{14}{subsubsection.35}
+\contentsline {subsubsection}{\numberline {2.6.2.2}Revenue model}{15}{subsubsection.36}
+\contentsline {subsubsection}{\numberline {2.6.2.3}Partners information}{15}{subsubsection.37}
+\contentsline {subsubsection}{\numberline {2.6.2.4}Shortcomings and problems in recommendation algorithm }{15}{subsubsection.38}
+\contentsline {subsection}{\numberline {2.6.3}Jinni Inc}{15}{subsection.39}
+\contentsline {subsubsection}{\numberline {2.6.3.1}Differentiating features}{15}{subsubsection.40}
+\contentsline {subsubsection}{\numberline {2.6.3.2}Revenue model}{15}{subsubsection.41}
+\contentsline {subsubsection}{\numberline {2.6.3.3}Partners information}{16}{subsubsection.42}
+\contentsline {subsubsection}{\numberline {2.6.3.4}Shortcomings and problems in recommendation algorithm }{16}{subsubsection.43}
+\contentsline {subsection}{\numberline {2.6.4}A good movie to watch }{16}{subsection.44}
+\contentsline {subsubsection}{\numberline {2.6.4.1}Differentiating features}{16}{subsubsection.45}
+\contentsline {subsubsection}{\numberline {2.6.4.2}Shortcomings and problems in recommendation algorithm }{16}{subsubsection.46}
+\contentsline {subsection}{\numberline {2.6.5}Foundd Inc}{17}{subsection.47}
+\contentsline {subsubsection}{\numberline {2.6.5.1}Differentiating features}{17}{subsubsection.48}
+\contentsline {subsubsection}{\numberline {2.6.5.2}Shortcomings and problems in recommendation algorithm}{17}{subsubsection.49}
+\contentsline {chapter}{\numberline {3}Achieving sustainable competitive advantage}{18}{chapter.50}
+\contentsline {section}{\numberline {3.1}Comparative analysis}{18}{section.51}
+\contentsline {subsection}{\numberline {3.1.1}Comparison of features}{18}{subsection.52}
+\contentsline {subsection}{\numberline {3.1.2}Comparison with state of the art}{20}{subsection.54}
+\contentsline {section}{\numberline {3.2}Challenges for attaining competitive edge}{20}{section.55}
+\contentsline {section}{\numberline {3.3}Changes needed to face the challenge}{21}{section.56}
+\contentsline {subsection}{\numberline {3.3.1}Business related changes}{21}{subsection.57}
+\contentsline {subsection}{\numberline {3.3.2}Technical changes to increase uniqueness}{21}{subsection.59}
+\contentsline {section}{\numberline {3.4}Teams role in attaining competitive edge}{23}{section.60}
+\contentsline {section}{\numberline {3.5}Contribution from internship work}{24}{section.61}
+\contentsline {section}{\numberline {3.6}Conclusion}{24}{section.62}
+\contentsline {chapter}{Bibliography}{25}{dummy.63}

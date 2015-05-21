@@ -1,0 +1,189 @@
+\begin{thebibliography}{24}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Finger(2014)]{Recom0}
+Lutz Finger.
+\newblock Forbes, recommendation engines - the reason why we love big data.
+\newblock
+  \url{http://www.forbes.com/sites/lutzfinger/2014/09/02/recommendation-engines-the-reason-why-we-love-big-data},
+  February 2014.
+\newblock (Visited on 05/05/2015).
+
+\bibitem[Needham(2010)]{IMDb2}
+Col Needham.
+\newblock Imdb history.
+\newblock \url{http://www.imdb.com/help/show_leaf?history}, October 2010.
+\newblock (Visited on 05/05/2015).
+
+\bibitem[Hecht(2013)]{Here1}
+Ohad Hecht.
+\newblock Here's why you should use a recommendation engine | clickz.
+\newblock
+  \url{http://www.clickz.com/clickz/column/2282151/heres-why-you-should-use-a-recommendation-engine},
+  March 2013.
+\newblock (Visited on 05/05/2015).
+
+\bibitem[Quantcast(2015)]{Imdb8}
+Quantcast.
+\newblock Imdb.com : Traffic and demographic statistics by quantcast.
+\newblock \url{https://www.quantcast.com/imdb.com?country=US}, April 2015.
+\newblock (Visited on 05/05/2015).
+
+\bibitem[Alexa(2015{\natexlab{a}})]{Alexa5}
+Alexa.
+\newblock Alexa top 500 global sites.
+\newblock \url{http://www.alexa.com/topsites/global;2}, May 2015{\natexlab{a}}.
+\newblock (Visited on 05/05/2015).
+
+\bibitem[Emarketer(2012)]{Mobil1}
+Emarketer.
+\newblock Mobile continues to steal share of us adults' daily time spent with
+  media - emarketer.
+\newblock
+  \url{http://www.emarketer.com/Article/Mobile-Continues-Steal-Share-of-US-Adults-Daily-Time-Spent-with-Media/1010782},
+  April 2012.
+\newblock (Visited on 04/04/2015).
+
+\bibitem[Ausick(2014)]{HowM2}
+Paul Ausick.
+\newblock How much time do viewers really spend with netflix? (nasdaq: Nflx) -
+  24/7 wall st.
+\newblock
+  \url{http://247wallst.com/technology-3/2014/09/29/how-much-time-do-viewers-really-spend-with-netflix},
+  September 2014.
+\newblock (Visited on 04/04/2015).
+
+\bibitem[in~Paris(2010)]{Recom8_voc}
+Institut~Telecom in~Paris.
+\newblock Recommendation engine market survey | customers.com - trusted
+  advisors to customer centric executives.
+\newblock
+  \url{http://www.customers.com/articles/recommendation-engine-market-survey/},
+  April 2010.
+\newblock (Visited on 08/05/2015).
+
+\bibitem[Goldstein and Goldstein(2006)]{Profile_online}
+Daniel~G. Goldstein and Dominique~C. Goldstein.
+\newblock Profiting from the long tail - hbr.
+\newblock \url{https://hbr.org/2006/06/profiting-from-the-long-tail}, June
+  2006.
+\newblock (Visited on 05/09/2015).
+
+\bibitem[Alexa(2015{\natexlab{b}})]{Alexa_imdb}
+Alexa.
+\newblock imdb.com site overview.
+\newblock \url{http://www.alexa.com/siteinfo/imdb.com}, May 2015{\natexlab{b}}.
+\newblock (Visited on 05/10/2015).
+
+\bibitem[Nisen(2013)]{time_spent_online}
+Max Nisen.
+\newblock How much time people spend online - business insider.
+\newblock
+  \url{http://www.businessinsider.com/how-much-time-people-spend-online-2013-10?IR=T},
+  October 2013.
+\newblock (Visited on 04/24/2015).
+
+\bibitem[Statista(2015)]{number_of_movies_per_year_online}
+Statista.
+\newblock Movie releases in north america 2014 | statistic.
+\newblock
+  \url{http://www.statista.com/statistics/187147/movie-releases-in-north-america-since-1980/},
+  February 2015.
+\newblock (Visited on 04/25/2015).
+
+\bibitem[Klosowski(2012)]{flicking_online}
+Thorin Klosowski.
+\newblock How to stop flicking through a million movie options and pick
+  something to watch.
+\newblock
+  \url{http://lifehacker.com/5897034/how-to-stop-flicking-through-a-million-movie-options-and-pick-something-to-watch},
+  March 2012.
+\newblock (Visited on 04/26/2015).
+
+\bibitem[Masnick(2008)]{Longtail_online}
+Mike Masnick.
+\newblock The long tail is only as good as the recommendation system |
+  techdirt.
+\newblock \url{https://www.techdirt.com/articles/20081123/1230162928.shtml},
+  November 2008.
+\newblock (Visited on 04/29/2015).
+
+\bibitem[Adomavicius and Tuzhilin(2005)]{Article_1}
+Gediminas Adomavicius and Alexander Tuzhilin.
+\newblock Toward the next generation of recommender systems: A survey of the
+  state-of-the-art and possible extensions.
+\newblock \emph{Knowledge and Data Engineering, IEEE Transactions on},
+  17\penalty0 (6):\penalty0 734--749, 2005.
+
+\bibitem[Moz(2015)]{popularity_online}
+Moz.
+\newblock Open site explorer | moz.
+\newblock
+  \url{https://moz.com/researchtools/ose/comparisons?site=http%3A%2F%2Fwww.imdb.com%2F&no_redirects=0},
+  2015.
+\newblock (Visited on 04/28/2015).
+
+\bibitem[Fleisher and Bensoussan(2007)]{Fleisher_411:2007:BCA:1408337}
+Craig Fleisher and Babette Bensoussan.
+\newblock \emph{Business and Competitive Analysis: Effective Application of New
+  and Classic Methods}.
+\newblock Number 411, Chapter 7. FT Press, first edition, 2007.
+\newblock ISBN 9780131873667.
+
+\bibitem[Porter(1998)]{Porter199806}
+Michael~E. Porter.
+\newblock \emph{Competitive Advantage: Creating and Sustaining Superior
+  Performance}.
+\newblock Number 169, Chapter 5. Free Press, 1 edition, 6 1998.
+\newblock ISBN 9780684841465.
+\newblock URL \url{http://amazon.com/o/ASIN/0684841460/}.
+
+\bibitem[Byers et~al.(2014)Byers, Dorf, and Nelson]{ByersDorfNelson201401}
+Thomas Byers, Richard Dorf, and Andrew Nelson.
+\newblock \emph{Technology Ventures: From Idea to Enterprise}.
+\newblock Number 65, Chapter 4. McGraw-Hill Science/Engineering/Math, 4
+  edition, 1 2014.
+\newblock ISBN 9780073523422.
+\newblock URL \url{http://amazon.com/o/ASIN/0073523429/}.
+
+\bibitem[IMDB(2015)]{Press_imdb_online}
+IMDB.
+\newblock Press room.
+\newblock \url{http://www.imdb.com/pressroom/about/}, 2015.
+\newblock (Visited on 05/10/2015).
+
+\bibitem[Nicholas(2014)]{How_I4_online}
+Don Nicholas.
+\newblock How imdb uses cpa advertising to make money online - mequoda daily.
+\newblock
+  \url{http://www.mequoda.com/articles/multiplatform-publishing-strategy/how-imdb-uses-cpa-advertising-to-make-money-online/},
+  August 2014.
+\newblock (Visited on 05/10/2015).
+
+\bibitem[Ha(2014)]{Fanda7_online}
+Anthony Ha.
+\newblock Fandango will offer embedded trailers and ticketing on samsung smart
+  tvs | techcrunch.
+\newblock \url{http://techcrunch.com/2014/01/07/fandango-samsung/}, January
+  2014.
+\newblock (Visited on 05/10/2015).
+
+\bibitem[Editor(2013)]{Jinni0_online}
+Advanced~Television Editor.
+\newblock Jinni speech recognition for search | advanced television.
+\newblock
+  \url{http://advanced-television.com/2013/01/10/jinni-speech-recognition-for-search/},
+  January 2013.
+\newblock (Visited on 05/10/2015).
+
+\bibitem[movie to~watch team(2015)]{Agoodmovietowatch_online}
+A~Good movie to~watch team.
+\newblock About a good movie to watch, the ideal movie suggestion generator.
+\newblock \url{http://agoodmovietowatch.com/about/}, 2015.
+\newblock (Visited on 05/10/2015).
+
+\end{thebibliography}
